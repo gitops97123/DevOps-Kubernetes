@@ -1,9 +1,175 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T15:27:43.840Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="utrl-UKx6cP_e41jV8Nj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T15:45:17.666Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nltw3zK_KyWMTE1Nbqc8" version="21.5.0" type="github">
   <diagram name="Page-1" id="SavhaSES4DZtPEtQf7O8">
-    <mxGraphModel>
+    <mxGraphModel dx="2107" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bWFBdeA4XKeijRdMvMug-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="316" width="920" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="250" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="491" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;OS : Ubuntu 22.04&lt;br&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br&gt;&amp;nbsp;CPU : 2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="378" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-8" value="&amp;nbsp;OS : Ubuntu 22.04&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;CPU : 2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry y="491" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-9" value="&amp;nbsp;OS : Ubuntu 22.04&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;CPU : 2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry y="600" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="378" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="491" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="358" width="250" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="491" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-18" target="bWFBdeA4XKeijRdMvMug-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-18" value="&amp;nbsp;OS : Ubuntu 22.04&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;CPU : 2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="378" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-19" target="bWFBdeA4XKeijRdMvMug-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-19" value="&amp;nbsp;OS : Ubuntu 22.04&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;CPU : 2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="491" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-20" target="bWFBdeA4XKeijRdMvMug-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-20" value="&amp;nbsp;OS : Ubuntu 22.04&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;CPU : 2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="600" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-21" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="460" y="503" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="502" y="503" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="378" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-49" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="502" y="389" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-52" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="460" y="612" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="502" y="612" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="491" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-55" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="140" y="503" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="182" y="503" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-58" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="140" y="609.5" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="182" y="609.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="378" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-61" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=master" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="182" y="390" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-63" value="Master03" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-64" value="Master02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="561" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-65" value="Master01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="448" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-66" value="Worker01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="448" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-67" value="Worker02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="561" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-68" value="Worker03" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="667.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="420" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.145;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.92;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.986;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.145;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWFBdeA4XKeijRdMvMug-5" target="bWFBdeA4XKeijRdMvMug-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-84" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;OS : Ubuntu 22.04&lt;br&gt;&amp;nbsp;RAM : 4 GB&amp;nbsp;&lt;br&gt;&amp;nbsp;CPU : 2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="597.5" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-69" value="Load Balancer" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="295" y="660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWFBdeA4XKeijRdMvMug-86" value="HAProxy Archnitecture 1.0&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="365" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
