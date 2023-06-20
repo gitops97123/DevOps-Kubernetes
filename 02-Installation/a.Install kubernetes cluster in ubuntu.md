@@ -24,10 +24,13 @@ My Lab setup contains two servers. One control plane machine and one node to be 
 
 |Server Type | Server Hostname | Specs|
 |------------|-----------------|-------|
-|Master |k8s-master.example.com | 4GB Ram, 2vcpus|
-|Worker1 |k8s-worker1.example.com | 2GB Ram, 1vcpus|
-|Worker2 |k8s-worker2.example.com | 2GB Ram, 1vcpus|
- 
+|Master  | master01.k8s.io | 4GB Ram, 2vcpus|
+|Master  | master02.k8s.io | 4GB Ram, 2vcpus|
+|Master  | master03.k8s.io | 4GB Ram, 2vcpus|
+---------------------------------------------
+|Worker1 | worker01.k8s.io | 2GB Ram, 1vcpus|
+|Worker2 | worker02.k8s.io | 2GB Ram, 1vcpus|
+---------------------------------------------
 #### Step 1: Install Kubernetes Servers
 
 Provision the servers to be used in the deployment of Kubernetes on Ubuntu 20.04. The setup process will vary depending on the virtualization or cloud environment you’re using.
